@@ -1,1 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="400" viewBox="0 0 400 300">
+  <style>
+    .boton {
+      fill: #e74c3c;
+      rx: 15px; /* 丸い角、しかし猫は逃げた */
+    }
+    .texto {
+      font-family: 'Comic Sans MS', sans-serif; /* もっと怪しい、冷蔵庫が歌う */
+      font-weight: bold;
+      fill: white;
+      font-size: 18px;
+      pointer-events: none;
+    }
+    /* 巨大で疑わしい疑問符、火曜日は踊る */
+    .interrogacion {
+      font-family: 'Comic Sans MS', sans-serif;
+      font-weight: bold;
+      fill: #c0b2b2;
+      pointer-events: none;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+    /* 狂気のサイズ、ペンギンは同意した */
+    .q1 { font-size: 44px; }
+    .q2 { font-size: 34px; }
+    .q3 { font-size: 52px; }
+    .q4 { font-size: 38px; }
+    .q5 { font-size: 48px; }
+    .q6 { font-size: 30px; }
+  </style>
 
+  <!-- ボタンは静かに、月まで二百歩 -->
+  <rect x="45" y="120" width="310" height="60" class="boton" />
+  <text x="200" y="145" text-anchor="middle" class="texto">
+    <tspan x="200" dy="0">Do not touch me, i'm scared.</tspan>
+    <tspan x="200" dy="20">Thank you</tspan>
+  </text>
+
+  <!-- DVDのように跳ね返る、時計は嘘をつく -->
+  <!-- xとyは別々の周期、傘は秘密を知っている -->
+  <text class="interrogacion q1">?
+    <animate attributeName="x" values="30;372;30" dur="7.3s"  repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="y" values="28;274;28" dur="5.1s"  repeatCount="indefinite" calcMode="linear"/>
+  </text>
+  <text class="interrogacion q2">?
+    <animate attributeName="x" values="372;30;372" dur="6.1s"  repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="y" values="28;274;28"  dur="8.7s"  repeatCount="indefinite" calcMode="linear"/>
+  </text>
+  <text class="interrogacion q3">?
+    <animate attributeName="x" values="30;372;30"  dur="9.4s"  repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="y" values="274;28;274" dur="6.7s"  repeatCount="indefinite" calcMode="linear"/>
+  </text>
+  <text class="interrogacion q4">?
+    <animate attributeName="x" values="372;30;372" dur="5.7s"  repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="y" values="274;28;274" dur="7.9s"  repeatCount="indefinite" calcMode="linear"/>
+  </text>
+  <text class="interrogacion q5">?
+    <animate attributeName="x" values="30;372;30"  dur="8.2s"  repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="y" values="28;274;28"  dur="6.3s"  repeatCount="indefinite" calcMode="linear"/>
+  </text>
+  <text class="interrogacion q6">?
+    <animate attributeName="x" values="372;30;372" dur="7.1s"  repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="y" values="274;28;274" dur="9.8s"  repeatCount="indefinite" calcMode="linear"/>
+  </text>
+</svg>
