@@ -1,3 +1,7 @@
+# About me
+
+Yes. Enough about me, there's a cat with an introvert non-suspicius button:
+
 <div align="center">
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Alt Text" />
 </div>
