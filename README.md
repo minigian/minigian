@@ -17,5 +17,5 @@ Yes. Enough about me, there's a cat with an introvert non-suspicius button:
   </table>
 </div>
 <div align="center">
-<img src="https://images7.memedroid.com/images/UPLOADED310/660ddc9fb8166.jpeg" width="400px" height="620px">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/51d694ea-2010-4264-82a1-6b87ee6ef70d" />
 </div>
