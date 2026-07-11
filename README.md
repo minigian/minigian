@@ -31,3 +31,5 @@ Yes. Enough about me, there's a cat with an introvert non-suspicius button:
 **Pointer-Device Spatial Localization Engine:** Manipulation of dual-axis pointing hardware featuring haptic feedback. Specialized in the translation of physical coordinates into logical on-screen coordinates with pixel-perfect precision.
 
 **Postural Ergonomics Gravity-Resistance Framework:** Efficient distribution of body mass across horizontal support platforms. Optimized to mitigate the impact of gravity at runtime and prevent disc herniation within the spinal column database.
+
+F*ck you, Recruiters.
