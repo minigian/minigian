@@ -1,1 +1,3 @@
-IM CHANGING THIS!1!
+<div align="center">
+  <img src="./stuff.svg" width="100%" alt="Retro Pink Profile" />
+</div>
