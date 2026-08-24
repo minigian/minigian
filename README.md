@@ -1,5 +1,6 @@
 # ✧ Perhaps you've seen it, maybe in a dream.
 
+
 > *A murky, forgotten land.*  
 > *A place where souls may mend your ailing mind.*
 
@@ -52,3 +53,5 @@ A Hollow.
 
 ## For that is your fate.
 # *The fate of the cursed.*
+
+Contact: hatsune_miku@tuta.io
