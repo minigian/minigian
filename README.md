@@ -1,5 +1,6 @@
 # ✧ Perhaps you've seen it, maybe in a dream.
 
+![img](./banner.svg)
 
 > *A murky, forgotten land.*  
 > *A place where souls may mend your ailing mind.*
