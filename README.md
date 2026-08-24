@@ -21,7 +21,7 @@ Your very light.
 
 ---
 
-## ⚔ By then, you'll be something other than human.
+## By then, you'll be something other than human.
 
 ```
 A thing that feeds on souls.
